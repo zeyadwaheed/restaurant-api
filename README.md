@@ -66,3 +66,8 @@ The recommendations endpoint uses a MongoDB aggregation pipeline with 3 steps:
 - Location is stored as a GeoJSON Point which enables the nearby search using MongoDB's $near operator
 - Each restaurant can have between 1 and 3 cuisines
 - A user can only follow a restaurant once
+## Author
+
+**Zeyad Waheed Fahmy, Backend - Full Stack Developer / TA**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zeyad-waheed-871725269)
